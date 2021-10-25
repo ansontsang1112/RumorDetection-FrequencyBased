@@ -1,0 +1,12 @@
+Step 1: Get the data-sets (https://www.kaggle.com/saketchaturvedi/liarplus)
+Step 2: Ingest the data-set by building the data frame and column(s)
+Step 3: Analysing the data (Asking question to the data) [Exploratory Data Analysis]
+
+
+Label Distribution & "Truthiness"
+1. true – The statement is accurate and there’s nothing significant missing.
+2. mostly-true – The statement is accurate but needs clarification or additional information.
+3. half-true – The statement is partially accurate but leaves out important details or takes things out of context.
+4. barely-true – The statement contains an element of truth but ignores critical facts that would give a different impression.
+5. false – The statement is not accurate.
+6. pants-fire – The statement is not accurate and makes a ridiculous claim. a.k.a. "Liar, Liar, Pants on Fire!"
